@@ -1,22 +1,33 @@
-html{
+body{
     background: url("../img/img1.jpg") no-repeat center center fixed;
-    background-size: cover;
+    background-size: cover;    
     display: flex;
     justify-content: center;
     align-items: center;
-    
 }
 .profile-card{
-    width: 280px;
+    width: 820px;
+    text-align: center;
+    box-shadow: 0 0 10px #00000070;
 }
 .top-setion{
     background-color: white;
+    padding: 60px 40px;
 
 }
 img{
     border-radius: 50%;
-    font-size: large;
+    width: 500px;
+}
+.img{
+    margin: 20%;
 }
 .bottom-section{
     background-color: white;
+}
+.icon-part{
+    
+}
+.about{
+    font-size: 50px ;
 }
