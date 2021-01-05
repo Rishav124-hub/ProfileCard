@@ -1,0 +1,22 @@
+html{
+    background: url("../img/img1.jpg") no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.profile-card{
+    width: 280px;
+}
+.top-setion{
+    background-color: white;
+
+}
+img{
+    border-radius: 50%;
+    font-size: large;
+}
+.bottom-section{
+    background-color: white;
+}
