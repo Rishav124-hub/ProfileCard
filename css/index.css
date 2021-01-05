@@ -10,7 +10,7 @@ body{
     text-align: center;
     box-shadow: 0 0 10px #00000070;
     position: absolute;
-    top: 20%;
+    top: 14%;
 }
 .top-section{
     padding: 20px;
@@ -22,6 +22,10 @@ img{
 }
 .img{
     margin: 10%;
+}
+.name{
+    margin: 10px;
+    font-size: 28px;
 }
 .bottom-section{
     background-color: white;
@@ -38,7 +42,7 @@ img{
     padding: 0%;
 }
 .content{
-    padding: 10px 20px;
+    padding: 15px 15px;
     margin: 10px;
 }
 .icon{
