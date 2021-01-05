@@ -6,27 +6,50 @@ body{
     align-items: center;
 }
 .profile-card{
-    width: 820px;
+    width: 1200px;
     text-align: center;
-    box-shadow: 0 0 10px #00000070;
+    box-shadow: 0 0 50px #00000070;
+    position: absolute;
+    top: 25%;
 }
 .top-section{
-    padding: 50px 50px;
-
+    padding: 30px;
 }
 img{
     border-radius: 50%;
-    width: 500px;
+    width: 550px;
+    margin: 0%;
 }
 .img{
     margin: 20%;
 }
 .bottom-section{
     background-color: white;
+    padding: 20px;
 }
 .icon-part{
-    
+    border-radius: 50%;
+    margin-top:-100px ;
+    width: 100%;
 }
 .about{
-    font-size: 50px ;
+    font-size: 60px ;
+    margin: 0%;
+    padding: 0%;
+}
+.content{
+    padding: 20px 40px;
+    margin: 10px;
+}
+.icon{
+   margin-left: 50px;
+   margin-right: 50px;
+   size: 12em;
+}
+.icon span{
+    font-size: 90px;
+    color: white;
+    border-radius: 50%;
+    background-color: black;
+    padding: 40px;
 }
