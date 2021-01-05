@@ -6,50 +6,50 @@ body{
     align-items: center;
 }
 .profile-card{
-    width: 1200px;
+    width: 400px;
     text-align: center;
-    box-shadow: 0 0 50px #00000070;
+    box-shadow: 0 0 10px #00000070;
     position: absolute;
-    top: 25%;
+    top: 20%;
 }
 .top-section{
-    padding: 30px;
+    padding: 20px;
 }
 img{
     border-radius: 50%;
-    width: 550px;
+    width: 150px;
     margin: 0%;
 }
 .img{
-    margin: 20%;
+    margin: 10%;
 }
 .bottom-section{
     background-color: white;
-    padding: 20px;
+    padding: 10px;
 }
 .icon-part{
     border-radius: 50%;
-    margin-top:-100px ;
+    margin-top:-40px ;
     width: 100%;
 }
 .about{
-    font-size: 60px ;
+    font-size: 20px ;
     margin: 0%;
     padding: 0%;
 }
 .content{
-    padding: 20px 40px;
+    padding: 10px 20px;
     margin: 10px;
 }
 .icon{
-   margin-left: 50px;
-   margin-right: 50px;
-   size: 12em;
+   margin-left: 10px;
+   margin-right: 10px;
+   size: 12px;
 }
 .icon span{
-    font-size: 90px;
+    font-size: 30px;
     color: white;
     border-radius: 50%;
     background-color: black;
-    padding: 40px;
+    padding: 15px;
 }
