@@ -50,10 +50,22 @@ img{
    margin-right: 10px;
    size: 12px;
 }
+.icon :hover{
+    color: aquamarine;
+    background-color: black;
+    animation: wave 1.2s infinite;
+
+}
+@keyframes wave{
+    to{
+        transform: scale(1.2);
+        opacity: 0.6;
+    }
+}
 .icon span{
     font-size: 30px;
     color: white;
     border-radius: 50%;
-    background-color: black;
+    background-color: darkslategrey;
     padding: 15px;
 }
